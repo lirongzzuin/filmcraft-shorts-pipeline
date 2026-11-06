@@ -1,0 +1,6 @@
+# 기본 파이프라인은 표준 라이브러리만 사용. 아래는 선택 기능 (모두 무료·로컬).
+supertonic>=1.3        # AI 내레이션 TTS (코드 MIT / 모델 OpenRAIL-M, 한국어)
+mlx-whisper>=0.4       # 원본 대사 받아쓰기 (Apple Silicon)
+# YouTube 비공개 자동 업로드 (docs/AUTOMATION.md)
+google-api-python-client>=2.150
+google-auth-oauthlib>=1.2

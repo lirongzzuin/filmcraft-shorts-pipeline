@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv*/
+.DS_Store
+# 공개 사본에는 설정·에셋·데이터·비밀 키가 없다
+config/
+assets/
+data/
+secrets/
+episodes/
+library/
+inbox/
+logs/
+docs/
+prompts/

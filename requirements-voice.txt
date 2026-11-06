@@ -1,0 +1,3 @@
+# 아빠 목소리 내레이션 전용 가상환경 (.venv-voice). babyreel/voice_worker.py
+mlx-audio==0.6.0
+soundfile
